@@ -6,3 +6,5 @@ if b=='Yes':
     print("Done the work")
 else:
     print("Dont proceed")
+    print("Dont make any changes also")
+    print('Exit')
